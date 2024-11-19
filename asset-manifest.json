@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ssn_web/static/css/main.f855e6bc.css",
+    "main.js": "/ssn_web/static/js/main.81cdcc81.js",
+    "static/js/453.76616aec.chunk.js": "/ssn_web/static/js/453.76616aec.chunk.js",
+    "static/media/logo.svg": "/ssn_web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ssn_web/index.html",
+    "main.f855e6bc.css.map": "/ssn_web/static/css/main.f855e6bc.css.map",
+    "main.81cdcc81.js.map": "/ssn_web/static/js/main.81cdcc81.js.map",
+    "453.76616aec.chunk.js.map": "/ssn_web/static/js/453.76616aec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.81cdcc81.js"
+  ]
+}
